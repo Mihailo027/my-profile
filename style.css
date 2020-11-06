@@ -1,0 +1,103 @@
+body {
+  font-family: Roboto, serif;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  background-color: rgb(149, 203, 233);
+}
+
+ul {
+  font-family: Roboto, serif;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+li {
+  font-family: Roboto, serif;
+  padding: 10px;
+}
+
+h1 {
+  font-family: Roboto, serif;
+  font-size: 35px;
+  color: #0C7BD0;
+  text-shadow: 1px 1px #403d3d;
+  width: 50%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2{
+  font-family: Roboto, serif;
+  font-size: 30px;
+  color: black;
+  width: 50%
+  padding: none;
+}
+
+h3{
+  font-family: Roboto, serif;
+  font-size: 25px;
+
+  color: white;
+  width: 50%
+  text: justify;
+}
+
+a:hower {
+  color :rgb(230,230,230);
+  font-size: 300px;
+}
+
+div{
+  background: white;
+  text-align: center;
+  margin: center;
+  padding: center;
+  border: solid;
+  border-color: rgb(67, 133, 144);
+  border-radius: 70px;
+  width:470px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top:30px;
+}
+
+footer {
+  font-family: Roboto, serif;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 90px;
+  background-color: #0C7BD0;
+  margin-left: 0px;
+}
+
+.description {
+  color: black;
+  text-align: auto;
+}
+
+.photo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+
+.img-circle{
+  border-radius: 15%
+}
+
+.bouton {
+  display: flex;
+  border: 2px solid white;
+  padding: 20px 30px;
+  border-radius: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+.bouton:hower{
+  color :rgb(230,230,230);
+}
